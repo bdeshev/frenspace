@@ -1,0 +1,12 @@
+{
+  "name": "add-discord-auth",
+  "status": "ready",
+  "artifacts": {
+    "proposal": "complete",
+    "design": "complete",
+    "tasks": "complete",
+    "spec": "complete"
+  },
+  "created": "2026-03-15",
+  "schema": "spec-driven"
+}
