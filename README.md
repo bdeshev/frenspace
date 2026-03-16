@@ -20,6 +20,12 @@ To install dependencies:
 bun install
 ```
 
+Create and migrate database in `data/frenspace.db`:
+
+```bash
+bun scripts/migrate.ts
+```
+
 To run:
 
 ```bash
