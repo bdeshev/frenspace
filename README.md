@@ -14,6 +14,9 @@ Discord app for managing private comunities
 
 ## Setup
 
+First register a Discord OAuth app and get its client ID and secret. Then copy over the `env.example` variables to `env.sh` and
+configure your settings.
+
 To install dependencies:
 
 ```bash
@@ -23,12 +26,14 @@ bun install
 Create and migrate database in `data/frenspace.db`:
 
 ```bash
+source env.sh
 bun scripts/migrate.ts
 ```
 
 To run:
 
 ```bash
+source env.sh
 bun run index.ts
 ```
 
