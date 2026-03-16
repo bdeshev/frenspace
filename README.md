@@ -6,9 +6,9 @@ Discord app for managing private comunities
 - [ ] Discord role management.
 - [ ] Tips and donations.
 
-<img width="503" height="474" alt="image" src="https://github.com/user-attachments/assets/6dce0763-fc91-43a9-9da3-98e2bf627a3d" />
+<img width="959" height="424" alt="image" src="https://github.com/user-attachments/assets/fd912543-12ae-4219-aa55-9679203dee7e" />
 
-<img width="910" height="300" alt="image" src="https://github.com/user-attachments/assets/8b3f5325-1990-418e-af47-f852d9e00b16" />
+<img width="959" height="296" alt="image" src="https://github.com/user-attachments/assets/4073d4b8-72c2-4e8c-8fcc-cac4e8645fa7" />
 
 🔧 Live deployement at [frenspace.bunker9.fyi](https://frenspace.bunker9.fyi) 
 
